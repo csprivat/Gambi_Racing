@@ -1,4 +1,4 @@
-#**Bem-vindo ao GambiRacing!**
+#Bem-vindo ao GambiRacing!
 
 Um projeto que objetiva construir um simulador de corridas de baixo custo, inspirado na cultura Faça Você Mesmo (DIY).
 
