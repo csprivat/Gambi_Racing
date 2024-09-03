@@ -5,7 +5,7 @@ Um projeto que objetiva construir um simulador de corridas de baixo custo, inspi
 ### Objetivo do Projeto
 O objetivo principal do GambiRacing é criar um simulador de corridas completo, com volante, pedais e câmbio sequencial, que seja acessível e fácil de construir para qualquer pessoa interessada neste tipo de projeto.
 
-**IMPORTANTE** Apesar de estar documentando todo o processo, não é objetivo do mesmo criar um manual ou um passo-a-passo e sim criar uma documentação de referência.
+**IMPORTANTE:** Apesar de estar documentando todo o processo, não é objetivo do mesmo criar um manual ou um passo-a-passo e sim criar uma documentação de referência. Ao tomar a decisão de criar seu projeto, você está assumindo todos os riscos inerentes ao mesmo, não cabendo nenhuma responsabilidade ao auto do GambiRacing.
 
 ### Princípios Básicos
 
